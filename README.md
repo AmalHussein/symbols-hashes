@@ -112,7 +112,7 @@ note: you can always define an empty hash and give it key value pairs later
 to define a key value pair, we place the key on the left, a colon, and then the value we want associated with our key on the right.
 
 ```ruby
-name : 'Gandalf the Grey'
+name: 'Gandalf the Grey'
 ```
 
 if we have multiple key value pairs, we use the same syntax and add commas at the end of each key value pair (except for the last one)

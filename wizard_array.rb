@@ -7,7 +7,7 @@ my_array = ['zero','one','two','three','four']
 
 # we can access one of these items by its index in the arrays
 
-my_array[2] #returns the value 'two'
+my_array[2,] #returns the value 'two'
 
 
 # we can also use the index to SET a value in the arrays

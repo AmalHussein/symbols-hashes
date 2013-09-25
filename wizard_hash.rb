@@ -1,5 +1,7 @@
 require 'pry'
 # my wizard as a hash using symbols as keys
+
+
 my_wizard = {
     name: 'Gandalf the Grey',
     age: 10000,
@@ -9,6 +11,37 @@ my_wizard = {
     weaknesses: 'Balrogs',
     status: 'Total Badass'
 }
+
+my_wizard = {
+    :name => 'Gandalf the Grey'
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 my_wizard = {
     "name" => 'Gandalf the Grey',
